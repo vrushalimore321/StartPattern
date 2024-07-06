@@ -1,0 +1,7 @@
+C:\Users\Nirav\source\repos\Startpattern\Startpattern\bin\Debug\Startpattern.exe.config
+C:\Users\Nirav\source\repos\Startpattern\Startpattern\bin\Debug\Startpattern.exe
+C:\Users\Nirav\source\repos\Startpattern\Startpattern\bin\Debug\Startpattern.pdb
+C:\Users\Nirav\source\repos\Startpattern\Startpattern\obj\Debug\Startpattern.csproj.AssemblyReference.cache
+C:\Users\Nirav\source\repos\Startpattern\Startpattern\obj\Debug\Startpattern.csproj.CoreCompileInputs.cache
+C:\Users\Nirav\source\repos\Startpattern\Startpattern\obj\Debug\Startpattern.exe
+C:\Users\Nirav\source\repos\Startpattern\Startpattern\obj\Debug\Startpattern.pdb
